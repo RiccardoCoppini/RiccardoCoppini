@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiccardoCoppini
 - 👀 I’m interested in videogames, engineering and technologies
-- 🌱 I’m currently learning C++, python, Unity, Ros, Linux
+- 🌱 I’m currently learning C++, python, Unity
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/riccardocoppini/
 
 <!---
